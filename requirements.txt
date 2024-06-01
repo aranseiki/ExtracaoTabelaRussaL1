@@ -1,0 +1,5 @@
+﻿# DEV E TEST
+-r requirements_dev.txt
+
+# PROD
+py-rpautom
